@@ -1,2 +1,3 @@
 # hello-world
-just for starting
+
+I just want to have a try in GutHub!
