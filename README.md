@@ -1,3 +1,3 @@
 # hello-world
 
-I just want to have a try in GutHub!
+I just want to have a try in GitHub!
